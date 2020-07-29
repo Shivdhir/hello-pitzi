@@ -7,3 +7,4 @@ updating this file
 reason is to show that I have learnt the Commit function
 Remember to read properly missed the step
 need to see the difference from previous file
+Stop making stupid mistakes READ - state you Commit
